@@ -1,6 +1,6 @@
 # Source Codes - Riski's API
 <p align="center">
-<a href="#"><img title="api riski30" src="https://img.shields.io/badge/zeeoneofc Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="api riski30" src="https://img.shields.io/badge/Riski Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc"><img title="Author" src="https://img.shields.io/badge/Author-Riski-orange.svg?style=for-the-badge&logo=github"></a>
