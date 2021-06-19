@@ -12,8 +12,8 @@
 <a href="https://github.com/zeeoneofc/api-zeeoneofc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/api-zeeoneofc?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/zeeoneofc"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://wa.me/qr/7YHIAETYC3YSB"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/rizky.ganz30"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
 ## Api Features
